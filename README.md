@@ -16,7 +16,8 @@
 - press b or B to insert 'disease.csv' file into current database. (<- 차후에 데이터 중복 확인하는 작업이 필요할것.)
 - press c or C to insert 'prescription string' into current database. <br>
 ![Screen Shot 2021-10-17 at 4 25 07 AM](https://user-images.githubusercontent.com/67300266/137599812-f8652e6e-e32c-4417-af8f-c154240cd271.png)
-<br> 규칙 활용한 파싱 작업 추가됨: 질병명은 생략될 수 있거나 '.' 이 생략될 수 있으며 중간에 의미 없이 빈 문자열을 포함 할 수 있음.
+<br> 파싱 작업 추가되었고 사용한 규칙은 아래와 같음: 
+<br> 질병명은 생략될 수 있거나 '.' 이 생략될 수 있으며 중간에 의미 없이 빈 문자열을 포함 할 수 있음.
 <br> 약 정보는 반드시 1개 이상 입력 되어야 하고 Drug 테이블의 drug_name 과 정확히 일치해야 하며,
 <br> '약 이름' 다음 문자열로 '총 투약일수 정보가 '일' 문자열과 붙어서 입력됨.
 <br> 처방전 발급 날짜는 생략된 경우 '오늘' 로 입력됨.
