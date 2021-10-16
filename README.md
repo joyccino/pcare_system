@@ -3,10 +3,10 @@
 * 환경 : MacOS Catalina, python 3.8
 * DB : pymongo atlas
 
-#1 create and activate a virtual environment: <br>
+#1 Create and activate a virtual environment: <br>
 <img width="453" alt="Screen Shot 2021-10-16 at 12 03 42 PM" src="https://user-images.githubusercontent.com/67300266/137571377-aed3ee82-ef4b-4036-aa25-b0672b385f31.png">
 
-#2 download required libraries from requirements.txt by pip install -r requirements.txt <br>
+#2 Prepare required libraries from requirements.txt by pip install -r requirements.txt <br>
 
 #3 run program by 'python3 pcare.py' <br>
 ![Screen Shot 2021-10-17 at 4 14 12 AM](https://user-images.githubusercontent.com/67300266/137599549-a688b580-d5e4-46f6-a59a-0d7afcf9d5c8.png)
