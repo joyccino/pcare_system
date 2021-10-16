@@ -25,4 +25,5 @@
 ![Screen Shot 2021-10-17 at 4 26 07 AM](https://user-images.githubusercontent.com/67300266/137599836-8150e4a3-ace3-4159-b6f2-7af82ec39b58.png)
 <br> continue pressing b or B for ' 나의 오늘 복용할 약의 이름과 투약 횟수 알기'
 ![Screen Shot 2021-10-17 at 4 27 14 AM](https://user-images.githubusercontent.com/67300266/137599857-6a7135c0-d528-46a9-9d87-4c7860b6017c.png)
-- press q or Q to terminate.
+- press q or Q to terminate. <br>
+![Screen Shot 2021-10-17 at 4 29 19 AM](https://user-images.githubusercontent.com/67300266/137599920-657bc4da-118a-4a72-9eb0-1c2eb2547ecb.png)
