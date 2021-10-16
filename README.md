@@ -1,4 +1,4 @@
-# prescription_system
+# pcare_system
 
 * 환경 : MacOS Catalina, python 3.8
 * DB : pymongo atlas
