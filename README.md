@@ -12,8 +12,8 @@
 ![Screen Shot 2021-10-17 at 4 14 12 AM](https://user-images.githubusercontent.com/67300266/137599549-a688b580-d5e4-46f6-a59a-0d7afcf9d5c8.png)
 
 #4 Press keys to navigate:
-- Press a or A to insert 'drug.csv' file into current database. (<- 차후에 데이터 중복 확인하는 작업이 필요할것.)
-- Press b or B to insert 'disease.csv' file into current database. (<- 차후에 데이터 중복 확인하는 작업이 필요할것.)
+- Press a or A to insert 'drug.csv' file into current database. (<- 차후에 데이터 중복 확인하는 작업 필요할것.)
+- Press b or B to insert 'disease.csv' file into current database. (<- 차후에 데이터 중복 확인하는 작업 필요할것.)
 - Press c or C to insert 'prescription string' into current database. <br>
 ![Screen Shot 2021-10-17 at 4 25 07 AM](https://user-images.githubusercontent.com/67300266/137599812-f8652e6e-e32c-4417-af8f-c154240cd271.png)
 <br> 파싱 작업 추가되었고 사용한 규칙은 아래와 같음: 
