@@ -20,5 +20,6 @@
 <br> '약 이름' 다음 문자열로 '총 투약일수 정보가 '일' 문자열과 붙어서 입력됨.
 <br> 처방전 발급 날짜는 생략된 경우 '오늘' 로 입력됨.
 - press d or D for personalised service:
-<br> a or A for '나의 질병명과 유용한 정보 알기'
-<br> b or B for ' 나의 오늘 복용할 약의 이름과 투약 횟수 알기'
+<br> continue pressing a or A for '나의 질병명과 유용한 정보 알기'
+<br> continue pressing b or B for ' 나의 오늘 복용할 약의 이름과 투약 횟수 알기'
+- press q or Q to terminate.
