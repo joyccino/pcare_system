@@ -12,19 +12,20 @@
 ![Screen Shot 2021-10-17 at 4 14 12 AM](https://user-images.githubusercontent.com/67300266/137599549-a688b580-d5e4-46f6-a59a-0d7afcf9d5c8.png)
 
 #4 Press keys to navigate:
-- Press a or A to insert 'drug.csv' file into current database.
-- Press b or B to insert 'disease.csv' file into current database.
-- Press c or C to insert 'prescription string' into current database. <br>
-![Screen Shot 2021-10-17 at 4 25 07 AM](https://user-images.githubusercontent.com/67300266/137599812-f8652e6e-e32c-4417-af8f-c154240cd271.png)
+- Press a or A to insert 'drug.csv' file into current database.<br> ![Screen Shot 2021-10-17 at 6 25 19 PM](https://user-images.githubusercontent.com/67300266/137621070-62cf0c3f-e3b9-4839-8a65-8898de2ccf00.png)
+
+
+- Press b or B to insert 'disease.csv' file into current database. <br> ![Screen Shot 2021-10-17 at 6 25 33 PM](https://user-images.githubusercontent.com/67300266/137621080-546869f9-a4eb-4c04-84b1-56cce45f6e02.png)
+
+- Press c or C to insert 'prescription string' into current database. <br>![Screen Shot 2021-10-17 at 6 25 59 PM](https://user-images.githubusercontent.com/67300266/137621084-0123b2c0-fa55-4e15-a16d-a6b19808cf04.png)
 <br> 파싱 작업 추가되었고 사용한 규칙은 아래와 같음: 
 <br> 1) 질병명은 생략될 수 있거나 '.' 이 생략될 수 있으며 중간에 의미 없이 빈 문자열을 포함 할 수 있음.
 <br> 2) 약 정보는 반드시 1개 이상 입력 되어야 하고 Drug 테이블의 drug_name 과 정확히 일치해야 하며,
 <br> 3) '약 이름' 다음 문자열로 '총 투약일수 정보가 '일' 문자열과 붙어서 입력됨.
 <br> 4) 처방전 발급 날짜는 생략된 경우 '오늘' 로 입력됨.
 - Press d or D for personalised service:
-<br> 1) Continue pressing a or A for '나의 질병명과 유용한 정보 알기' <br>
-![Screen Shot 2021-10-17 at 4 26 07 AM](https://user-images.githubusercontent.com/67300266/137599836-8150e4a3-ace3-4159-b6f2-7af82ec39b58.png)
-<br> 2) Continue pressing b or B for ' 나의 오늘 복용할 약의 이름과 투약 횟수 알기'
-![Screen Shot 2021-10-17 at 4 27 14 AM](https://user-images.githubusercontent.com/67300266/137599857-6a7135c0-d528-46a9-9d87-4c7860b6017c.png)
+<br> 1) Continue pressing a or A for '나의 질병명과 유용한 정보 알기' <br>![Screen Shot 2021-10-17 at 6 26 15 PM](https://user-images.githubusercontent.com/67300266/137621097-039e6be3-49f6-40a3-a6dd-741cb79566c1.png)
+
+<br> 2) Continue pressing b or B for ' 나의 오늘 복용할 약의 이름과 투약 횟수 알기'<br>![Screen Shot 2021-10-17 at 6 26 24 PM](https://user-images.githubusercontent.com/67300266/137621102-6d84910e-859f-4f2d-9e2b-5c7722db77e4.png)
+
 - Press q or Q to terminate. <br>
-![Screen Shot 2021-10-17 at 4 29 19 AM](https://user-images.githubusercontent.com/67300266/137599920-657bc4da-118a-4a72-9eb0-1c2eb2547ecb.png)
