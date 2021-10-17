@@ -14,11 +14,11 @@
 #4 Press keys to navigate:
 - Press a or A to insert 'drug.csv' file into current database.<br> <img width="567" alt="Screen Shot 2021-10-17 at 7 16 17 PM" src="https://user-images.githubusercontent.com/67300266/137622896-7c784ff3-9697-404a-a42e-21caeb2307c3.png">
 
-<br> 이때, 입력받는 파일명은 파일형식인 '.csv'를 포함하거나 포함하지 않아도 됩니다.
+이때, 입력받는 파일명은 파일형식인 '.csv'를 포함하거나 포함하지 않아도 됩니다.
 
 - Press b or B to insert 'disease.csv' file into current database. <br> <img width="564" alt="Screen Shot 2021-10-17 at 7 18 11 PM" src="https://user-images.githubusercontent.com/67300266/137622899-52e94d50-b237-4f87-ac39-105a448520ec.png">
 
-<br> 이때, 입력받는 파일명은 파일형식인 '.csv'를 포함하거나 포함하지 않아도 됩니다.
+이때, 입력받는 파일명은 파일형식인 '.csv'를 포함하거나 포함하지 않아도 됩니다.
 
 - Press c or C to insert 'prescription string' into current database. <br>![Screen Shot 2021-10-17 at 6 25 59 PM](https://user-images.githubusercontent.com/67300266/137621084-0123b2c0-fa55-4e15-a16d-a6b19808cf04.png)
 <br> 파싱 작업 추가되었고 사용한 규칙은 아래와 같음: 
