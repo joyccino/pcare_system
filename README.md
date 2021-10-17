@@ -13,9 +13,10 @@
 
 #4 Press keys to navigate:
 - Press a or A to insert 'drug.csv' file into current database.<br> ![Screen Shot 2021-10-17 at 6 25 19 PM](https://user-images.githubusercontent.com/67300266/137621070-62cf0c3f-e3b9-4839-8a65-8898de2ccf00.png)
-
+<br> 이때, 입력받는 파일명은 파일형식인 '.csv'를 포함하거나 포함하지 않아도 됩니다.
 
 - Press b or B to insert 'disease.csv' file into current database. <br> ![Screen Shot 2021-10-17 at 6 25 33 PM](https://user-images.githubusercontent.com/67300266/137621080-546869f9-a4eb-4c04-84b1-56cce45f6e02.png)
+<br> 이때, 입력받는 파일명은 파일형식인 '.csv'를 포함하거나 포함하지 않아도 됩니다.
 
 - Press c or C to insert 'prescription string' into current database. <br>![Screen Shot 2021-10-17 at 6 25 59 PM](https://user-images.githubusercontent.com/67300266/137621084-0123b2c0-fa55-4e15-a16d-a6b19808cf04.png)
 <br> 파싱 작업 추가되었고 사용한 규칙은 아래와 같음: 
@@ -28,4 +29,5 @@
 
 <br> 2) Continue pressing b or B for ' 나의 오늘 복용할 약의 이름과 투약 횟수 알기'<br>![Screen Shot 2021-10-17 at 6 26 24 PM](https://user-images.githubusercontent.com/67300266/137621102-6d84910e-859f-4f2d-9e2b-5c7722db77e4.png)
 
-- Press q or Q to terminate. <br>
+- Press q or Q to terminate. <br>![Screen Shot 2021-10-17 at 6 29 31 PM](https://user-images.githubusercontent.com/67300266/137621119-e0adfed5-431b-43c1-8ce3-5d3ca82ac753.png)
+
