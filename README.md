@@ -18,8 +18,6 @@
 
 - Press b or B to insert 'disease.csv' file into current database. <br> <img width="564" alt="Screen Shot 2021-10-17 at 7 18 11 PM" src="https://user-images.githubusercontent.com/67300266/137622899-52e94d50-b237-4f87-ac39-105a448520ec.png">
 
-이때, 입력받는 파일명은 파일형식인 '.csv'를 포함하거나 포함하지 않아도 됩니다.
-
 - Press c or C to insert 'prescription string' into current database. <br>![Screen Shot 2021-10-17 at 6 25 59 PM](https://user-images.githubusercontent.com/67300266/137621084-0123b2c0-fa55-4e15-a16d-a6b19808cf04.png)
 <br> 파싱 작업 추가되었고 사용한 규칙은 아래와 같음: 
 <br> 1) 질병명은 생략될 수 있거나 '.' 이 생략될 수 있으며 중간에 의미 없이 빈 문자열을 포함 할 수 있음.
